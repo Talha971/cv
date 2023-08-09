@@ -1,3 +1,3 @@
 # cv
 
-[CV](https://pages.github.com/)
+[CV](https://www.google.com/)
