@@ -1,3 +1,3 @@
 # cv
 
-[CV]("www.google.com")
+[CV](www.google.com)
